@@ -1,7 +1,7 @@
 # Portfolio 2.0
 `Like portfolio, but better.`
 
-[Portfolio 2.0](https://www.speedchan.com)
+[Portfolio 2.0](https://speedchan-e3u6i.ondigitalocean.app/)
 
 - Has images
 - Has actual links
