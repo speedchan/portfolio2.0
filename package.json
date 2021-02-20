@@ -1,13 +1,12 @@
 {
-  "name": "personal-site",
+  "name": "portfolio2.0",
   "version": "1.0.0",
-  "description": "",
+  "description": "Like portfolio, but better.",
   "main": "index.js",
   "scripts": {
-    "start": "index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "open": "index.html",
   },
-  "author": "",
+  "author": "Speed",
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {}
